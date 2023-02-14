@@ -1,0 +1,6 @@
+apiVersion: scaffolder.backstage.io/v1beta3
+kind: Template
+metadata:
+  name: backstage-template-test
+  title: Backstage Template Test
+  description: Just trying things out, again
